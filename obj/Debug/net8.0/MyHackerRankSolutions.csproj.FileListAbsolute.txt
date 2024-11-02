@@ -1,0 +1,14 @@
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\MyHackerRankSolutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\MyHackerRankSolutions.AssemblyInfoInputs.cache
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\MyHackerRankSolutions.AssemblyInfo.cs
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\MyHackerRankSolutions.csproj.CoreCompileInputs.cache
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\bin\Debug\net8.0\MyHackerRankSolutions.exe
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\bin\Debug\net8.0\MyHackerRankSolutions.deps.json
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\bin\Debug\net8.0\MyHackerRankSolutions.runtimeconfig.json
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\bin\Debug\net8.0\MyHackerRankSolutions.dll
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\bin\Debug\net8.0\MyHackerRankSolutions.pdb
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\MyHackerRankSolutions.dll
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\refint\MyHackerRankSolutions.dll
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\MyHackerRankSolutions.pdb
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\MyHackerRankSolutions.genruntimeconfig.cache
+D:\Projects\Training\hackerrank\MyHackerRankSolutions\obj\Debug\net8.0\ref\MyHackerRankSolutions.dll
